@@ -1,0 +1,12 @@
+body{
+    background-color: #0a7882;
+}
+.todo-container{
+    text-align: center;
+}
+ul.todo-list {
+    list-style-type: none;
+}
+.todo-list-item{
+    padding: 10px;
+}
