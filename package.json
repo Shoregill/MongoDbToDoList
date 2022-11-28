@@ -1,6 +1,7 @@
 {
   "name": "MongoDB-To-Do-List",
   "version": "1.0.0",
+  "homepage" : "https://Shoregill.github.io/MongoDbToDoList",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,4 +22,3 @@
     "nodemon": "^2.0.20"
   }
 }
-"https://Shoregill.github.io/MongoDbToDoList"
